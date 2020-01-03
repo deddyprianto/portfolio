@@ -135,9 +135,12 @@
 
 
 	// Loading page
-	setInterval(function () {
-		$(".fh5co-loader").fadeOut("slow");
-	}, 10000);
+	var loaderPage = function () {
+		setInterval(function () {
+
+			$(".fh5co-loader").fadeOut("slow");
+		}, 10000)
+	};
 
 
 	$(function () {
