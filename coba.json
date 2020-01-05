@@ -1,0 +1,34 @@
+[{
+      "key": "Value",
+      "nama": "Deddy Prianto Sihombing",
+      "Kelas": "Sistem Informasi Sore",
+      "Prodi": "Sistem Informasi",
+      "Nim": 17211052,
+      "Hobby": "Makan",
+      "Dosen Saat Ini": ["Iswanto Sembiring",
+         "Marintim Sinaga",
+         "Anjar Pinem"
+      ],
+
+      "Dosen Pembimbing Skripsi": {
+         "Dosen  Pembingbing 1": "Sutrisno Panggabean",
+         "Dosen Pembingbing 2": "Maya Sari Sinaga"
+      }
+
+   },
+   {
+      "key": "Value",
+      "nama": "Deddy Prianto Sihombing",
+      "Kelas": "Sistem Informasi Sore",
+      "Prodi": "Sistem Informasi",
+      "Nim": 17211052,
+      "Hobby": "Makan",
+      "Dosen Saat Ini": ["Iswanto Sembiring", "Marintim Sinaga", "Anjar Pinem"],
+
+      "Dosen Pembimbing Skripsi": {
+         "Dosen  Pembingbing 1": "Sutrisno Panggabean",
+         "Dosen Pembingbing 2": "Maya Sari Sinaga"
+      }
+
+   }
+]
